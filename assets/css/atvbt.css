@@ -144,6 +144,17 @@
     }
 }
 
+.gh-powered-by a{
+    font-size: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.gh-powered-by a svg{
+    margin-left: 1rem;
+}
+
 .gh-head-search{
     margin-right: 1rem;
 }
